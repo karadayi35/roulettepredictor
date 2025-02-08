@@ -1,0 +1,10 @@
+# Ignore unnecessary files
+node_modules/
+.expo/
+.git/
+.android/
+.ios/
+build/
+yarn.lock
+package-lock.json
+*.log
