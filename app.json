@@ -10,19 +10,26 @@
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#1d1d1b"
     },
+    
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ikagaming.rouletteprivate"
     },
+
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.ikagaming.rouletteprivate"
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+
+    "extra": {
+      "eas": {
+        "projectId": "f0394d9e-cafc-43c7-810d-6d5c5b521d9a"
+      }
     }
   }
 }
