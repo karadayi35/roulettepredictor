@@ -12,12 +12,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#1d1d1b"
     },
-    
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.ikagaming.rouletteprivate"
+      "supportsTablet": true
     },
-
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
@@ -25,10 +22,9 @@
       },
       "package": "com.ikagaming.rouletteprivate"
     },
-
     "extra": {
       "eas": {
-        "projectId": "f0394d9e-cafc-43c7-810d-6d5c5b521d9a"
+        "projectId": "1fb1a8b9-b734-4e1c-8392-f17f759123f0"
       }
     }
   }
