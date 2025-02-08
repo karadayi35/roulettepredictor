@@ -86,9 +86,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.ikagaming.rouletteprivate'
+    namespace 'com.karadayi35.rouletteprivate'
     defaultConfig {
-        applicationId 'com.ikagaming.rouletteprivate'
+        applicationId 'com.karadayi35.rouletteprivate'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
