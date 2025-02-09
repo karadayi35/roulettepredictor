@@ -1,10 +1,17 @@
-# Ignore unnecessary files
+# Gereksiz dosyalar
 node_modules/
+android/
+ios/
 .expo/
-.git/
-.android/
-.ios/
 build/
+.gradle/
+.expo-shared/
+dist/
 yarn.lock
 package-lock.json
 *.log
+*.tmp
+.web-build
+test-results/
+coverage/
+logs/
