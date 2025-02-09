@@ -8,19 +8,19 @@
       "developmentClient": true,
       "distribution": "internal",
       "env": {
-        "JAVA_HOME": "/usr/lib/jvm/java-17-openjdk-amd64"
+        "JAVA_HOME": "C:/Program Files/Eclipse Adoptium/jdk-17.0.13-hotspot"
       }
     },
     "preview": {
       "distribution": "internal",
       "env": {
-        "JAVA_HOME": "/usr/lib/jvm/java-17-openjdk-amd64"
+        "JAVA_HOME": "C:/Program Files/Eclipse Adoptium/jdk-17.0.13-hotspot"
       }
     },
     "production": {
       "autoIncrement": true,
       "env": {
-        "JAVA_HOME": "/usr/lib/jvm/java-17-openjdk-amd64"
+        "JAVA_HOME": "C:/Program Files/Eclipse Adoptium/jdk-17.0.13-hotspot"
       }
     }
   },
